@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!319 &31900000
+AvatarMask:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: GripL
+  m_Mask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+  m_Elements:
+  - m_Path: 
+    m_Weight: 1
+  - m_Path: Hand
+    m_Weight: 0
+  - m_Path: LP_Hands
+    m_Weight: 0
+  - m_Path: LP_Hands/hand.L
+    m_Weight: 0
+  - m_Path: LP_Hands/hand.L/hand.001.L
+    m_Weight: 0
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.002.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.002.L/hand.003.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.002.L/hand.003.L/hand.004.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.002.L/hand.003.L/hand.004.L/hand.004.L_end
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.005.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.005.L/hand.006.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.005.L/hand.006.L/hand.007.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.005.L/hand.006.L/hand.007.L/hand.007.L_end
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.008.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.008.L/hand.009.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.008.L/hand.009.L/hand.010.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.008.L/hand.009.L/hand.010.L/hand.010.L_end
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.011.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.011.L/hand.012.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.011.L/hand.012.L/hand.013.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.011.L/hand.012.L/hand.013.L/hand.013.L_end
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.014.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.014.L/hand.015.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.014.L/hand.015.L/hand.016.L
+    m_Weight: 1
+  - m_Path: LP_Hands/hand.L/hand.001.L/hand.014.L/hand.015.L/hand.016.L/hand.016.L_end
+    m_Weight: 1

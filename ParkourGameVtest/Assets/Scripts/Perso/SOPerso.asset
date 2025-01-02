@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3015d1b6d13b5614cbf4abeb3c5e412e, type: 3}
+  m_Name: SOPerso
+  m_EditorClassIdentifier: 
+  speed: 2
+  baseSpeed: 2
+  speedWhenRunning: 5
+  jumpHeight: 5
+  onlyMoveWhenGrounded: 0
+  handSpeedToRun: 3
+  isGrounded: 0
+  wallRunSpeed: 0
+  wallrunning: 0
+  turnSpeed: 100
+  jumpWithHand: 1
+  minJumpWithHandSpeed: 1
+  maxJumpWithHandSpeed: 5
+  leftClimb: 0
+  rightClimb: 0
+  health: 5
+  maxHealth: 5
+  attackDamage: 10
+  isDead: 0
+  newGame: 1
+  firstGame: 1
+  inTutorial: 1
+  bodyHeightMin: 0.5
+  bodyHeightMax: 2
+  inZone: 0
+  distance: 0
+  totalDistance: 0
+  time: 0
+  totalTime: 0
+  vignette: 0
